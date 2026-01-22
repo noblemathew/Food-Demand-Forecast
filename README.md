@@ -21,7 +21,7 @@ Forecast weekly demand for meal–center combinations to help optimize inventory
 
 ## Results
 - Local RMSLE: ~0.46
-- Public leaderboard score: ~46
+- Public leaderboard score: ~313
 
 ## Tech Stack
 - Python
@@ -29,5 +29,3 @@ Forecast weekly demand for meal–center combinations to help optimize inventory
 - Scikit-learn
 - XGBoost
 
-## Notes
-This project focuses on building a clean, stable, and explainable ML pipeline rather than aggressive leaderboard tuning.
