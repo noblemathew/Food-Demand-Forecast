@@ -1,7 +1,6 @@
 # Food-Demand-Forecast-
 Hackathon
 
-# Food Demand Forecasting
 
 This project solves a demand forecasting problem for a meal delivery company using historical order data.
 
