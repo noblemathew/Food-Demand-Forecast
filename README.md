@@ -1,5 +1,5 @@
-# Food-Demand-Forecast-
-Hackathon
+# Food-Demand-Forecast
+Hackathon - Analytics Vidya
 
 
 This project solves a demand forecasting problem for a meal delivery company using historical order data.
